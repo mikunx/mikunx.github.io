@@ -15,8 +15,9 @@ div {
 img.first {
     margin-left: 20px;  
 }
-img{
-    margin-left: -5px;  
+.fit{
+    max-width: 99%;
+    max-height: 99%;
 }
 .navbar{
     background-color: #f8f9fa;
