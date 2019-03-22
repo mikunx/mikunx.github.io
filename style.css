@@ -15,12 +15,12 @@ div {
 img.first {
     margin-left: 20px;  
 }
-.fit{
+/*.fit{
     max-width: 99%;
     max-height: 99%;
     width: 80vw;
     height: 80vh;
-}
+}*/
 .navbar{
     background-color: #f8f9fa;
     font-family: 'ZCOOL XiaoWei', serif;
